@@ -113,3 +113,108 @@ AISHELL-4,"~120","Mandarin Chinese","Real-world meeting Mandarin speech corpus. 
 ASCEND,"~10","Mandarin-English","Code-switching Mandarin-English corpus from Hong Kong. Spontaneous conversational speech with language labels.",CC BY 4.0,https://huggingface.co/datasets/CAiRE/ASCEND
 GigaSpeech (African),"N/A","African languages","Extension of GigaSpeech covering African language speech data for ASR research in low-resource settings.",Apache 2.0,https://github.com/SpeechColab/GigaSpeech
 MagicData Mandarin,"755","Mandarin Chinese","Conversational Mandarin speech corpus. Mobile recordings from 1,000+ speakers across China.",CC BY-NC-ND 4.0,https://www.openslr.org/68/
+Loquacious Set,"~25,000",English,"Large-scale curated English ASR corpus with diverse accents and speech types (read, spontaneous, talks, clean, noisy). Hundreds of thousands of speakers. Commercially usable.",CC-BY-4.0,https://arxiv.org/abs/2505.21578
+Unsupervised People's Speech,"~100,000+",Multilingual,Massive multilingual audio dataset built from Archive.org recordings. Public domain or CC-BY/CC-BY-SA licensed audio for unsupervised speech model training.,CC-BY / CC-BY-SA / Public Domain,https://mlcommons.org/2025/01/new-unsupervised-peoples-speech/
+VoxBlink2,N/A,Multilingual,Large-scale audio-visual speaker recognition dataset with ~10M utterances from 110K+ speakers in the wild. Extracted from YouTube.,Research use,https://arxiv.org/abs/2407.11510
+3D-Speaker Dataset,"~10,000",Chinese/English,Large-scale speech corpus for speaker verification and recognition with disentangled speech representations. Multi-modal (audio + visual).,Apache 2.0,https://3dspeaker.github.io/
+BSD10k,N/A,Multilingual,"Broad Sound Dataset with 10,000+ Freesound audio clips annotated according to 23 second-level classes of the Broad Sound Taxonomy (BST).",CC-BY,https://labs.freesound.org/datasets/
+THCHS-30,~30,Chinese,Free Chinese speech corpus released by CSLT@Tsinghua University. Read speech for ASR research.,Apache 2.0,https://www.openslr.org/18/
+THUYG-20,~20,Uyghur,Free Uyghur speech database released by CSLT@Tsinghua University & Xinjiang University for ASR.,Apache 2.0,https://www.openslr.org/22/
+aidatatang_200zh,200,Chinese,Chinese Mandarin speech corpus by Beijing DataTang Technology. 200 hours from 600 speakers with >98% transcription accuracy.,CC-BY-NC-ND-4.0,https://www.openslr.org/62/
+Primewords Chinese Corpus Set 1,100,Chinese,Chinese Mandarin corpus by Shanghai Primewords Co. Ltd. containing 100 hours of speech data.,CC-BY-NC-SA-4.0,https://www.openslr.org/47/
+AISHELL-3,~85,Chinese,Multi-speaker Mandarin TTS corpus by Beijing Shell Shell Technology. High-quality recordings for speech synthesis research.,Apache 2.0,https://www.openslr.org/93/
+Kazakh Speech Corpus (KSC),330,Kazakh,Crowdsourced open-source Kazakh speech corpus developed by ISSAI for ASR research.,CC-BY-4.0,https://www.openslr.org/102/
+Russian LibriSpeech (RuLS),~98,Russian,Russian speech corpus based on LibriVox audiobooks for ASR research.,CC-BY-4.0,https://www.openslr.org/96/
+EmoV_DB,~7,English/French,Emotional speech database for synthesis and generation. Male and female actors with multiple emotions.,Open source,https://www.openslr.org/115/
+Samromur Icelandic,~100+,Icelandic,"Crowdsourced Icelandic speech corpus (Samrómur) including adult speakers, children, and query-focused subsets.",CC-BY-4.0,https://www.openslr.org/112/
+speechocean762,~5,English/Chinese,Pronunciation scoring dataset with utterances labeled independently by five human experts.,CC-BY-4.0,https://www.openslr.org/101/
+MediaSpeech,~40,French/Arabic/Turkish/Spanish,Media speech datasets from broadcast news for ASR evaluation in 4 languages.,CC-BY-4.0,https://www.openslr.org/108/
+Thorsten German Neutral-TTS,~23,German,Free single German speaker TTS dataset by Thorsten Müller for text-to-speech training.,CC-0,https://www.openslr.org/95/
+Thorsten German Emotional-TTS,~5,German,Free emotional single German speaker dataset (8 emotions) by Thorsten Müller for TTS training.,CC-0,https://www.openslr.org/110/
+Seoul Corpus,~100,Korean,Korean Corpus of Spontaneous Speech created from NRF(Korea)-funded project for speech research.,CC-BY-NC-SA-4.0,https://www.openslr.org/113/
+RWCP Sound Scene Database,N/A,N/A (non-speech),Database of recordings of real-world sounds and measured room impulse responses for audio scene analysis.,Research use,https://www.openslr.org/13/
+HI-MIA,~10,Chinese,Far-field text-dependent speaker verification database for AISHELL Speaker Verification Challenge 2019.,Apache 2.0,https://www.openslr.org/85/
+MobvoiHotwords,~40,Chinese,Chinese hotwords/wake-word detection dataset provided by Mobvoi Co. Ltd.,CC-BY-4.0,https://www.openslr.org/87/
+Multilingual TEDx,~800,8 languages,Multilingual corpus of TEDx talks for speech recognition and translation tasks.,CC-BY-NC-ND-4.0,https://www.openslr.org/100/
+ParlamentParla,~600,Catalan,Catalan speech corpus generated from Catalan Parliamentary sessions for ASR.,CC-BY-4.0,https://www.openslr.org/59/
+African Accented French,~20,French (African accents),Recordings of African Accented French speech for accent-robust ASR research.,CC-BY-SA-4.0,https://www.openslr.org/57/
+IndicST Dataset,"~10,800",22 Indian languages,Dataset for training Speech LLMs for AST tasks (ASR and TTS). 10.8K hours training + 1.13K hours evaluation.,Research use,https://ai-labs.olakrutrim.com/models/IndicST-Dataset
+Deeply Korean Read Speech Corpus,~50,Korean,Pairs of Korean readers with 3 text/vocal sentiments. Recorded at 3 distances in 3 place types.,CC-BY-NC-ND-4.0,https://www.openslr.org/97/
+Deeply Nonverbal Vocalization Dataset,~2,Multilingual,"Human nonverbal vocal sound dataset (laughter, cries, sighs, etc.) by Deeply Inc.",CC-BY-NC-ND-4.0,https://www.openslr.org/99/
+Free ST Chinese Mandarin Corpus,~100,Chinese,"Chinese Mandarin corpus by Surfingtech. 855 speakers, 102,600 utterances.",CC-BY-SA-4.0,https://www.openslr.org/38/
+Pansori-TEDxKR,~3,Korean,Korean speech corpus from Korean language TEDx talks.,CC-BY-NC-ND-4.0,https://www.openslr.org/58/
+ALFFA,~30,Amharic/Swahili/Wolof,"African Languages in the Field: speech corpora for Amharic, Swahili and Wolof from the ALFFA project.",MIT,https://www.openslr.org/25/
+Heroico,~13,Spanish,Spanish speech data mirrored from the LDC.,LDC User Agreement,https://www.openslr.org/39/
+OpenCpop,~5.2,Chinese,High-quality Mandarin singing voice corpus for singing voice synthesis research. 100 songs with note-level annotations.,CC-BY-NC-4.0,https://wenet.org.cn/opencpop/
+OpenSinger,~50,Chinese,Large-scale multi-singer Chinese singing voice dataset with phoneme-level annotations for SVS.,CC-BY-NC-SA-4.0,https://github.com/Multi-Singer/Multi-Singer.github.io
+MELD,~13,English,Multimodal EmotionLines Dataset with ~13K utterances from Friends TV series annotated for emotion and sentiment.,GPL-3.0,https://affective-meld.github.io/
+ESD (Emotional Speech Dataset),~29,English/Chinese,Emotional Speech Dataset with 5 emotions from 10 English and 10 Chinese speakers for emotional TTS/VC.,CC-BY-NC-SA-4.0,https://github.com/HLTSingapore/Emotional-Speech-Data
+LibriTTS-R,~585,English,Restored version of LibriTTS with improved audio quality using speech restoration. Same text as LibriTTS.,CC-BY-4.0,https://www.openslr.org/141/
+Aachen Impulse Response Database (AIR),N/A,N/A (impulse responses),Database of room impulse responses for audio augmentation and room acoustic simulation.,MIT,https://www.openslr.org/20/
+WenetSpeech4TTS,"~12,800",Chinese,Curated subset of WenetSpeech for TTS training. Multi-speaker Chinese speech with quality filtering.,CC-BY-4.0,https://huggingface.co/datasets/Wenetspeech4TTS/WenetSpeech4TTS
+Vystadial,~40,English/Czech,English and Czech speech data from the Vystadial project for dialogue systems.,CC-BY-SA-3.0,https://www.openslr.org/6/
+1111 Hours Hindi ASR,"~1,111",Hindi,Large-scale Hindi ASR dataset for the Hindi ASR Challenge 2022.,CC-BY-4.0,https://www.openslr.org/118/
+Deeply Parent-Child Vocal Interaction,~10,Korean,"Parent-child interaction dataset (fairy tales, songs, conversation) recorded at various distances and environments.",CC-BY-NC-ND-4.0,https://www.openslr.org/98/
+West African Radio Corpus,~5,West African languages,West African Radio Corpus from the NicoLingua project for underresourced language ASR.,CC-BY-NC-SA-4.0,https://www.openslr.org/105/
+Puebla-Nahuatl,~5,Nahuatl,Puebla Nahuatl speech with transcription for endangered language documentation and ASR.,CC-BY-4.0,https://www.openslr.org/92/
+Yoloxochitl-Mixtec,~3,Mixtec,Yolóxochitl Mixtec speech with transcription for endangered language documentation.,CC-BY-4.0,https://www.openslr.org/89/
+Totonac Resources,~3,Totonac,Totonac speech with transcription for endangered language ASR and documentation.,CC-BY-4.0,https://www.openslr.org/107/
+AudioMNIST,~10,English,"30,000 audio samples of spoken digits (0-9) from 60 different speakers for digit recognition.",CC-BY-4.0,https://github.com/soerenab/AudioMNIST
+CMU-MOSEI,~65,English,65 hours of annotated video from 1000+ speakers and 250 topics. 6 emotions with Likert scale sentiment annotations.,Research use,http://multicomp.cs.cmu.edu/resources/cmu-mosei-dataset/
+CMU-MOSI,~5,English,"2,199 opinion utterances with annotated sentiment on seven Likert steps. Multimodal (audio+video+text).",Research use,http://multicomp.cs.cmu.edu/resources/cmu-mosi-dataset/
+DEMoS,~10,Italian,"9,365 emotional and 332 neutral samples by 68 native Italian speakers with 7 emotions including guilt.",Research use,https://zenodo.org/records/2544829
+JL Corpus,~3,English,"2,400 recordings of 240 sentences by 4 actors with 5 primary and 5 secondary emotions for emotional TTS.",CC-BY-4.0,https://github.com/tli725/JL-Corpus
+NISQA Speech Quality Corpus,~50,Multiple,14K speech samples with simulated and live voice call degradation. Labeled with subjective quality ratings.,MIT,https://github.com/gabrielmittag/NISQA
+Noisy VCTK (VBD),~30,English,Clean and noisy parallel speech database at 48kHz. Voice Bank + DEMAND for speech enhancement research.,CC-BY-4.0,https://datashare.ed.ac.uk/handle/10283/2791
+LibriMix,~100,English,Open source dataset for source separation in noisy environments. Derived from LibriSpeech + WHAM noise.,CC-BY-4.0,https://github.com/JorisCos/LibriMix
+Libri-CSS,~10,English,Conversational speech simulation derived from LibriSpeech. Far-field microphone recordings of replayed conversations.,CC-BY-4.0,https://github.com/chenzhuo1011/libri_css
+Microsoft MS-SNSD,N/A,English,"Microsoft Scalable Noisy Speech Dataset. Scalable to arbitrary sizes with various speakers, noise types, and SNR levels.",MIT,https://github.com/microsoft/MS-SNSD
+Flickr Audio Caption,~40,English,"40,000 spoken captions of 8,000 natural images for audio-visual learning. 4.2 GB.",CC-BY-4.0,https://groups.csail.mit.edu/sls/downloads/flickraudio/
+DIPCO (Dinner Party Corpus),~5,English,Dinner party recordings with close-talk and 5 far-field 7-mic arrays. 10 sessions of 15-45 minutes each.,CC-BY-SA-4.0,https://arxiv.org/abs/1909.13447
+MSP-Podcast Corpus,~100,English,"100 hours from 100+ speakers annotated with emotional attributes (activation, dominance, valence) and categorical labels.",Research use,https://ecs.utdallas.edu/research/researchlabs/msp-lab/MSP-Podcast.html
+Vaani,N/A,Indian languages,Large-scale Indian multilingual speech dataset by ARTPARK-IISc for ASR across Indian languages.,CC-BY-4.0,https://huggingface.co/datasets/ARTPARK-IISc/Vaani
+ReazonSpeech,"~35,000",Japanese,Large-scale Japanese speech corpus derived from broadcast recordings for ASR.,Apache 2.0,https://huggingface.co/datasets/reazon-research/reazonspeech
+WaxalNLP,N/A,African languages,Multilingual African language speech dataset by Google for ASR research.,CC-BY-4.0,https://huggingface.co/datasets/google/WaxalNLP
+Anim400K,"~400,000 clips",Japanese,400K anime voice clips with transcriptions for speech synthesis and recognition.,Research use,https://huggingface.co/datasets/davidchan/anim400k
+MultiMed-ST,N/A,Multilingual,Multilingual medical speech translation dataset for healthcare ASR/ST.,CC-BY-4.0,https://huggingface.co/datasets/leduckhai/MultiMed-ST
+UrduMegaSpeech,N/A,Urdu,Large-scale Urdu speech dataset for ASR research.,CC-BY-4.0,https://huggingface.co/datasets/humair025/UrduMegaSpeech
+Banque Sonore Dialectes Bretons,N/A,Breton,Audio recordings of Breton dialects for language preservation and ASR.,CC-BY-SA-4.0,https://huggingface.co/datasets/Bretagne/Banque_Sonore_Dialectes_Bretons
+LibriTTS-R (OpenSLR 141),~585,English,Restored version of LibriTTS with speech restoration for improved audio quality. Same alignments as LibriTTS.,CC-BY-4.0,https://www.openslr.org/141/
+EveryAyah,~80,Arabic,Full Quran recitation dataset with 127K+ audio segments by multiple reciters. Used for Quranic ASR.,CC-BY-NC-4.0,https://huggingface.co/datasets/tarteel-ai/everyayah
+GOAI Moore Speech Corpora,N/A,Moore,Speech corpus for the Moore language (Burkina Faso) for ASR development.,CC-BY-4.0,https://huggingface.co/datasets/goaicorp/GOAI-MooreSpeechCorpora
+CaFE,~1,French,Canadian French Emotional speech dataset. 6 sentences by 12 speakers with multiple emotions.,Research use,https://zenodo.org/records/1478765
+EMOVO,~1,Italian,"Italian emotional speech dataset. 6 actors, 14 sentences, 6 emotions.",CC-BY-NC-SA-4.0,https://aclanthology.org/L14-1478/
+Keio-ESD,~5,Japanese,Japanese emotional speech dataset by a male speaker with 47 emotion categories.,Research use,https://github.com/YutoSuzuki03/Keio-ESD
+WHAM!,~100,English,Wall Street Journal Hipster Ambient Mixtures. Noisy speech dataset for source separation with ambient noise.,CC-BY-NC-4.0,https://wham.whisper.ai/
+wsj0-mix,~30,English,Speech separation dataset derived from WSJ0 corpus. 2-speaker and 3-speaker mixtures for cocktail party problem.,LDC License,https://www.merl.com/demos/deep-clustering
+VoiceBank-DEMAND,~30,English,Parallel clean-noisy speech pairs from Voice Bank corpus mixed with DEMAND noise for speech enhancement.,CC-BY-4.0,https://datashare.ed.ac.uk/handle/10283/2791
+DCASE 2020 Task 4 (DESED),~20,N/A (sound events),Domestic Environment Sound Event Detection dataset. Synthetic and real recordings of 10 sound event classes.,MIT,https://github.com/turpaultn/DESED
+VCC 2018,~5,English,Voice Conversion Challenge 2018 dataset with parallel and non-parallel utterances from multiple speakers.,Research use,https://datashare.ed.ac.uk/handle/10283/3061
+VCC 2020,~5,English/Multiple,Voice Conversion Challenge 2020 dataset with cross-lingual voice conversion tasks.,Research use,https://github.com/espnet/espnet/tree/master/egs/vcc20
+CMU Arctic,~8,English,Speech synthesis databases from Carnegie Mellon University. 4 speakers with ~1150 utterances each.,Research use,http://festvox.org/cmu_arctic/
+VIVOS,~15,Vietnamese,Free Vietnamese speech corpus with 15 hours from 65 speakers for ASR research.,CC-BY-SA-4.0,https://ailab.hcmus.edu.vn/vivos
+M2VoC,~5,Chinese,Multi-speaker multi-style voice cloning challenge dataset for Chinese speech synthesis.,Research use,https://arxiv.org/abs/2104.11017
+DiPCo,~5,English,Dinner Party Corpus for far-field multi-channel conversational speech. 10 sessions.,CC-BY-SA-4.0,https://arxiv.org/abs/1909.13447
+DNS Challenge 5.0,N/A,Multilingual,"Deep Noise Suppression Challenge dataset (2023 edition) with clean speech, noise, and room impulse responses.",MIT,https://github.com/microsoft/DNS-Challenge
+BAVED,~2,Arabic,Basic Arabic Vocal Emotions Dataset. 1935 recordings by 61 speakers with emotions.,Research use,https://github.com/40uf411/Basic-Arabic-Vocal-Emotions-Dataset
+SUBESCO,~7,Bengali,Sustained Bengali Emotional Speech Corpus. 7000 utterances by 20 speakers with 7 emotions.,CC-BY-4.0,https://zenodo.org/records/4526477
+Shemo,~3,Persian,"Persian emotional speech dataset with 3,000 utterances by 87 speakers in 6 emotions.",Research use,https://github.com/pariajm/sharif-emotional-speech-dataset
+CSTR VCTK Corpus,~44,English,Centre for Speech Technology Research VCTK corpus. 44 hours from 110 English speakers with various accents.,CC-BY-4.0,https://datashare.ed.ac.uk/handle/10283/3443
+SpeechCommands v2,~18,English,"Google Speech Commands Dataset v0.02. 105,829 one-second utterances of 35 words by 2,618 speakers.",CC-BY-4.0,https://arxiv.org/abs/1804.03209
+TUDA-De,~184,German,German Distant and Close-talk Speech Corpus for ASR. Parliamentary speech data.,CC-BY-4.0,https://www.inf.uni-hamburg.de/en/inst/ab/lt/resources/data/acoustic-models.html
+Tatoeba,N/A,Multiple,Multilingual sentence recordings from Tatoeba project. Crowd-sourced audio in many languages.,CC-BY-2.0,https://tatoeba.org/
+GlobalPhone,~450,22 languages,Multilingual read speech corpus covering 22 languages. ~20 hours per language.,LDC License,https://catalogue.elra.info/en-us/repository/browse/ELRA-S0196/
+Babel,N/A,25 languages,IARPA Babel program multilingual speech corpus for low-resource language ASR.,LDC License,https://www.iarpa.gov/research-programs/babel
+MagicHub Datasets,N/A,Multiple,Collection of free open-source speech datasets from MagicHub covering multiple languages.,Various,https://magichub.com/
+IndicVoices,"~7,348",22 Indian languages,"Large-scale multilingual Indian speech dataset with natural and read speech from 16,237 speakers.",CC-BY-4.0,https://ai4bharat.iitm.ac.in/
+M4Singer,~30,Chinese,Multi-style multi-singer singing voice dataset with 700 songs from 20 singers.,CC-BY-NC-4.0,https://github.com/M4Singer/M4Singer
+PopCS,~5,Chinese,Popular Chinese Songs corpus for singing voice synthesis research.,CC-BY-NC-4.0,https://github.com/MoonInTheRiver/DiffSinger
+NUS-48E,~2,English,NUS Sung and Spoken Lyrics Corpus. 48 English songs with aligned singing and spoken versions.,Research use,https://smcnus.comp.nus.edu.sg/nus-48e-sung-and-spoken-lyrics-corpus/
+NHSS,~7,English,NHK-NTT Hybrid Singing-Speech dataset for joint singing/speech synthesis.,Research use,https://arxiv.org/abs/2111.02447
+ACE Challenge,N/A,N/A (acoustic),Acoustic Characterization of Environments challenge dataset with room impulse responses and noise.,CC-BY-4.0,https://www.ee.ic.ac.uk/naylor/ACECorpus/
+WHAMR!,~100,English,Extension of WHAM! with reverberant conditions for noisy reverberant speech separation.,CC-BY-NC-4.0,https://wham.whisper.ai/
+SpatialLibriSpeech,"~1,000",English,Spatialized version of LibriSpeech with simulated room acoustics for multi-channel ASR.,CC-BY-4.0,https://github.com/facebookresearch/SpatialLibriSpeech
+Genshin Voice,N/A,Japanese/Chinese/English/Korean,Genshin Impact character voice dataset extracted from game with 424K+ audio clips.,Game assets (unofficial),https://huggingface.co/datasets/simon3000/genshin-voice
+MOSEL,"~15,000",Many languages,Massively Open-source Speech and Evaluation Library. Large multilingual speech corpus.,CC-BY-4.0,https://arxiv.org/abs/2310.10707
+OWSM,"~180,000",Multiple,Open Whisper-Style Multilingual data for training large-scale speech models.,Various open licenses,https://arxiv.org/abs/2309.13876
+Tedlium 2,~207,English,TED-LIUM release 2 with 207 hours of TED talk speech and aligned transcriptions.,CC-BY-NC-ND-3.0,https://www.openslr.org/19/
