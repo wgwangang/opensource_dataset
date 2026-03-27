@@ -218,3 +218,71 @@ Genshin Voice,N/A,Japanese/Chinese/English/Korean,Genshin Impact character voice
 MOSEL,"~15,000",Many languages,Massively Open-source Speech and Evaluation Library. Large multilingual speech corpus.,CC-BY-4.0,https://arxiv.org/abs/2310.10707
 OWSM,"~180,000",Multiple,Open Whisper-Style Multilingual data for training large-scale speech models.,Various open licenses,https://arxiv.org/abs/2309.13876
 Tedlium 2,~207,English,TED-LIUM release 2 with 207 hours of TED talk speech and aligned transcriptions.,CC-BY-NC-ND-3.0,https://www.openslr.org/19/
+WenetSpeech-Yue,"21,800+",Cantonese,"Large-scale Cantonese speech dataset with over 21,800 hours. Derived from WenetSpeech pipeline for Cantonese ASR and TTS research.",CC BY 4.0,https://huggingface.co/datasets/ASLP-lab/WenetSpeech-Yue
+CAMEO,~100,Multilingual (20+ languages),Collection of Multilingual Emotional Speech Corpora. Curated collection of emotional speech datasets for standardized SER benchmarking across languages.,Various open,https://arxiv.org/abs/2505.11051
+EmoNet-Voice,"4,500+",4 languages,"Large-scale pre-training dataset for speech emotion detection with 11 voices, 40 emotions. Includes EmoNet-Voice Bench with expert annotations.",Research use,https://arxiv.org/abs/2506.09827
+OLMoASR,N/A,English,Open ASR models from AI2 trained from scratch on curated large-scale dataset. Fully open training data and model weights.,Apache 2.0,https://allenai.org/blog/olmoasr
+AISHELL-5,N/A,Mandarin Chinese,First open-source in-car multi-channel multi-speaker speech dataset for automotive speech research.,CC BY 4.0,https://www.openslr.org/159/
+STARSS23,N/A,N/A (sound events),Sony-TAu Realistic Spatial Soundscapes 2023. Stereo/FOA spatial sound event recordings for SELD research (DCASE challenges).,CC BY-NC 4.0,https://zenodo.org/records/7880637
+WildDESED,N/A,N/A (sound events),LLM-powered dataset for wild domestic environment sound event detection. Extends DESED with more realistic scenarios.,Research use,https://arxiv.org/abs/2407.08029
+Kallaama,N/A,Wolof/Pulaar/Sereer,"West African speech corpus for Wolof, Pulaar and Sereer languages from OpenSLR.",CC BY 4.0,https://www.openslr.org/151/
+SASPEECH,30,Hebrew,Hebrew speech corpus by a single speaker with transcripts. 30 hours for TTS and ASR.,CC BY 4.0,https://www.openslr.org/134/
+Sagalee,N/A,Oromo,Automatic Speech Recognition dataset for Oromo language from OpenSLR.,CC BY 4.0,https://www.openslr.org/157/
+NICT-Tib1,33.5,Tibetan (Lhasa),Lhasa-Tibetan read-speech corpus with Kaldi-style transcripts. 33.5 hours.,CC BY 4.0,https://www.openslr.org/158/
+XBMU-AMDO31,N/A,Tibetan (Amdo),"Tibetan Amdo dialect speech data from NLIT, Northwest Minzu University.",CC BY 4.0,https://www.openslr.org/133/
+TIBMD@MUC,84.3,Tibetan (multi-dialect),Tibetan multi-dialect speech dataset with 84.33 hours covering multiple Tibetan dialects.,CC BY 4.0,https://www.openslr.org/124/
+Kashmiri Data Corpus,N/A,Kashmiri,Audio and text corpus for the Kashmiri language for ASR research.,CC BY 4.0,https://www.openslr.org/122/
+MAGICDATA Conversational Mandarin,180,Mandarin Chinese,Rich annotated Mandarin spontaneous conversational speech data by Magic Data Technology.,CC BY-NC-ND 4.0,https://www.openslr.org/123/
+Kazakh Speech Dataset (KSD),554,Kazakh,High-quality open-source Kazakh speech corpus from Al-Farabi Kazakh National University. 554 hours.,CC BY 4.0,https://www.openslr.org/140/
+EMNS,N/A,English,Emotive single-speaker dataset for narrative storytelling with emotion and intensity annotations.,CC BY 4.0,https://www.openslr.org/136/
+Silbo Gomero Speech Corpus,~0.8,Silbo Gomero (whistled),Corpus of the Silbo Gomero whistled language from 4 whistlers. 49 minutes of recordings.,CC BY 4.0,https://www.openslr.org/137/
+SBCSAE,N/A,English,Santa Barbara Corpus of Spoken American English. Naturally occurring spoken interaction from UCSB.,Research use,https://www.openslr.org/155/
+SMIIP-TV Dataset,N/A,N/A,Short-term time-varying speaker verification dataset for studying speaker variability.,Research use,https://www.openslr.org/156/
+ArmenianGrqaserAudioBooks,N/A,Armenian,Processed speech-text paired data from Grqaser.org Armenian audiobooks.,CC BY 4.0,https://www.openslr.org/154/
+Sinhala TTS,N/A,Sinhala,Sinhalese multi-speaker TTS corpora from OpenSLR.,CC BY 4.0,https://www.openslr.org/30/
+South African TTS (af/st/tn/xh),N/A,Afrikaans/Sesotho/Setswana/isiXhosa,Multi-speaker TTS data for four South African languages.,CC BY 4.0,https://www.openslr.org/32/
+Javanese ASR,N/A,Javanese,Large Javanese ASR training data set containing ~185K utterances from Google.,CC BY 4.0,https://www.openslr.org/35/
+Sundanese ASR,N/A,Sundanese,Large Sundanese ASR training data set containing ~220K utterances from Google.,CC BY 4.0,https://www.openslr.org/36/
+Bengali TTS (Google),N/A,Bengali,Multi-speaker TTS data for Bangladesh Bengali and Indian Bengali from Google.,CC BY 4.0,https://www.openslr.org/37/
+Iban ASR,N/A,Iban,Iban language text and speech corpora for automatic speech recognition.,CC BY 4.0,https://www.openslr.org/24/
+Tunisian MSA,N/A,Arabic (Tunisian MSA),Tunisian Modern Standard Arabic speech corpus for ASR.,CC BY 4.0,https://www.openslr.org/46/
+Sinhala ASR (Google),N/A,Sinhala,Large Sinhala ASR training data set containing ~185K utterances from Google.,CC BY 4.0,https://www.openslr.org/52/
+Bengali ASR (Google),N/A,Bengali,Large Bengali ASR training data set containing ~196K utterances from Google.,CC BY 4.0,https://www.openslr.org/53/
+Nepali ASR (Google),N/A,Nepali,Large Nepali ASR training data set containing ~157K utterances from Google.,CC BY 4.0,https://www.openslr.org/54/
+Crowdsourced Argentinian Spanish,N/A,Spanish (Argentinian),Crowdsourced high-quality Argentinian Spanish speech data with 5739 recordings.,CC BY 4.0,https://www.openslr.org/61/
+Crowdsourced Malayalam,N/A,Malayalam,Crowdsourced high-quality Malayalam multi-speaker speech data from Google.,CC BY 4.0,https://www.openslr.org/63/
+Crowdsourced Marathi,N/A,Marathi,Crowdsourced high-quality Marathi multi-speaker speech data from Google.,CC BY 4.0,https://www.openslr.org/64/
+Crowdsourced Tamil,N/A,Tamil,Crowdsourced high-quality Tamil multi-speaker speech data from Google.,CC BY 4.0,https://www.openslr.org/65/
+Crowdsourced Telugu,N/A,Telugu,Crowdsourced high-quality Telugu multi-speaker speech data from Google.,CC BY 4.0,https://www.openslr.org/66/
+TEDx Spanish Corpus,N/A,Spanish,Spanish speech data taken from TEDx Talks for ASR research.,CC BY-NC-ND 4.0,https://www.openslr.org/67/
+Crowdsourced Catalan,N/A,Catalan,Crowdsourced high-quality Catalan speech data from Google.,CC BY 4.0,https://www.openslr.org/69/
+Crowdsourced Nigerian English,N/A,English (Nigerian),Crowdsourced high-quality Nigerian English speech data from Google.,CC BY 4.0,https://www.openslr.org/70/
+Crowdsourced Chilean Spanish,N/A,Spanish (Chilean),Crowdsourced high-quality Chilean Spanish speech data from Google.,CC BY 4.0,https://www.openslr.org/71/
+Crowdsourced Colombian Spanish,N/A,Spanish (Colombian),Crowdsourced high-quality Colombian Spanish speech data from Google.,CC BY 4.0,https://www.openslr.org/72/
+Crowdsourced Peruvian Spanish,N/A,Spanish (Peruvian),Crowdsourced high-quality Peruvian Spanish speech data from Google.,CC BY 4.0,https://www.openslr.org/73/
+Crowdsourced Basque,N/A,Basque,Crowdsourced high-quality Basque speech data from Google.,CC BY 4.0,https://www.openslr.org/76/
+Crowdsourced Galician,N/A,Galician,Crowdsourced high-quality Galician speech data from Google.,CC BY 4.0,https://www.openslr.org/77/
+Crowdsourced Gujarati,N/A,Gujarati,Crowdsourced high-quality Gujarati multi-speaker speech data from Google.,CC BY 4.0,https://www.openslr.org/78/
+Crowdsourced Kannada,N/A,Kannada,Crowdsourced high-quality Kannada multi-speaker speech data from Google.,CC BY 4.0,https://www.openslr.org/79/
+Crowdsourced Burmese,N/A,Burmese,Crowdsourced high-quality Burmese speech data from Google.,CC BY 4.0,https://www.openslr.org/80/
+Crowdsourced UK/Ireland English Dialects,N/A,English (UK/Ireland dialects),Crowdsourced male and female recordings of English from various UK and Ireland dialects.,CC BY 4.0,https://www.openslr.org/83/
+Crowdsourced Yoruba,N/A,Yoruba,Crowdsourced high-quality Yoruba speech data from Google.,CC BY 4.0,https://www.openslr.org/86/
+MUCS 2021 Indian Languages,N/A,Indian languages (multilingual/code-switching),Multilingual and code-switching ASR challenge dataset for low-resource Indian languages.,CC BY 4.0,https://www.openslr.org/103/
+West African VA ASR Corpus,N/A,West African languages,West African Virtual Assistant Speech Recognition Corpus from NicoLingua project.,CC BY-NC-SA 4.0,https://www.openslr.org/106/
+HI-MIA-CW,N/A,Mandarin Chinese,Supplemental speech corpus to HI-MIA database with negative samples for wake-up word detection.,Apache 2.0,https://www.openslr.org/120/
+MC Speech Dataset (Polish),N/A,Polish,Free speech dataset with 24018 short audio clips of a single speaker reading sentences in Polish.,CC BY 4.0,https://www.openslr.org/142/
+Nepali TTS (Male and Female),N/A,Nepali,Nepali speech and corresponding text data in male and female voice for TTS.,CC BY 4.0,https://www.openslr.org/143/
+Veracruz Orizaba Nahuatl,N/A,Nahuatl (Orizaba),Audio corpus of Orizaba (Veracruz) Nahuatl endangered language speech.,CC BY 4.0,https://www.openslr.org/147/
+Tepetzintla Zacatlan Nahuatl,N/A,Nahuatl (Zacatlán),Audio corpus of Zacatlán-Ahuacatlán-Tepetzintla (Puebla) Nahuatl endangered language speech.,CC BY 4.0,https://www.openslr.org/148/
+Tibetan Greetings,N/A,Tibetan,Selected Tibetan greetings speech data categorized by dialectal region.,CC BY 4.0,https://www.openslr.org/149/
+SHALCAS22A,N/A,Mandarin Chinese,Chinese Mandarin corpus by Shanghai Acoustics Laboratory CAS and Wuxi Sandu Intelligent Technology.,CC BY 4.0,https://www.openslr.org/138/
+BALK (Faroese),N/A,Faroese,Basic Language Resource Kit 1.0 for Faroese. Speech corpus for Faroese ASR.,CC BY 4.0,https://www.openslr.org/125/
+IISc-MILE Kannada ASR,N/A,Kannada,Kannada transcribed speech corpus for ASR from IISc-MILE.,CC BY 4.0,https://www.openslr.org/126/
+IISc-MILE Tamil ASR,N/A,Tamil,Tamil transcribed speech corpus for ASR from IISc-MILE.,CC BY 4.0,https://www.openslr.org/127/
+Libri-Mixed-Speakers,N/A,English,English audio of simultaneous speakers derived from LibriTTS for overlapped speech research.,CC BY 4.0,https://www.openslr.org/135/
+Mohammed Arabic Quran,N/A,Arabic,Arabic speech-to-text Quran data for ASR research.,CC BY 4.0,https://www.openslr.org/132/
+Marco LongSpeech,N/A,Multilingual,AIDC-AI large-scale long-form speech dataset for ASR and speech understanding.,Research use,https://huggingface.co/datasets/AIDC-AI/Marco_Longspeech
+PL-ASR-BIGOS,N/A,Polish,Polish ASR benchmark dataset with diverse speech domains for evaluation.,CC BY 4.0,https://huggingface.co/datasets/michaljunczyk/pl-asr-bigos
+Chinese Dialogue Speech Dataset,N/A,Chinese,Chinese dialogue speech dataset for conversational ASR and speech understanding.,Research use,https://huggingface.co/datasets/MYJOKERML/chinese-dialogue-speech-dataset
+Free ST American English Corpus,N/A,English (American),Free American English corpus by Surfingtech with 10 speakers and ~350 utterances each.,CC BY 4.0,https://www.openslr.org/45/
+Simulated RIR Database,N/A,N/A (room acoustics),Database of simulated room impulse responses for audio augmentation research.,CC BY 4.0,https://www.openslr.org/26/
