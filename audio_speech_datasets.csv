@@ -286,3 +286,35 @@ PL-ASR-BIGOS,N/A,Polish,Polish ASR benchmark dataset with diverse speech domains
 Chinese Dialogue Speech Dataset,N/A,Chinese,Chinese dialogue speech dataset for conversational ASR and speech understanding.,Research use,https://huggingface.co/datasets/MYJOKERML/chinese-dialogue-speech-dataset
 Free ST American English Corpus,N/A,English (American),Free American English corpus by Surfingtech with 10 speakers and ~350 utterances each.,CC BY 4.0,https://www.openslr.org/45/
 Simulated RIR Database,N/A,N/A (room acoustics),Database of simulated room impulse responses for audio augmentation research.,CC BY 4.0,https://www.openslr.org/26/
+Tadabur,N/A,Arabic,"Arabic Quran recitation dataset with multiple reciters and verse-level segmentation for ASR and Quran recognition research.",CC BY 4.0,https://huggingface.co/datasets/FaisaI/tadabur
+Star Rail Voice,N/A,"Japanese/Chinese/English/Korean","Honkai: Star Rail character voice dataset extracted from game with 186K+ audio clips in 4 languages.",Game assets (unofficial),https://huggingface.co/datasets/simon3000/starrail-voice
+SYSPIN Dataset,N/A,Indian languages (multiple),"Studio-recorded TTS datasets in multiple Indian languages by IISc Bengaluru for speech synthesis research.",CC BY 4.0,https://vaani.iisc.ac.in/dataset/syspindataset
+ASVspoof 5,N/A,English,"Anti-spoofing dataset for speaker verification systems. Fifth edition of the ASVspoof challenge series with deepfake and spoofed speech.",Research use,https://huggingface.co/datasets/jungjee/asvspoof5
+DataSEC,"N/A (717 tracks)",N/A (environmental noise),"Open-access dataset for sound event classification of outdoor environmental noise. Companion to DataSED.",CC BY 4.0,https://zenodo.org/records/15346092
+Switchboard-Affect,~260,English,"Emotion perception labels for conversational speech from the Switchboard corpus. Released by Apple for SER research.",Research use,https://machinelearning.apple.com/research/switchboard-affect
+CMU Wilderness,N/A,700+ languages,"Large multilingual speech corpus from Bible recordings in 700+ languages. Designed for low-resource language research.",Noncommercial,http://festvox.org/cmu_wilderness/
+ANAD,"~2 (1,384 recordings)",Arabic,"Arabic Natural Audio Dataset with 1,384 recordings by multiple speakers expressing 3 emotions: angry, happy, surprised.",CC BY 4.0,https://www.kaggle.com/datasets/suso172/arabic-natural-audio-dataset
+EmoFilm,"~2 (1,115 clips)",English/Italian/Spanish,"Emotional speech sentences extracted from various films in 3 languages for speech emotion recognition.",CC BY 4.0,https://zenodo.org/records/1326428
+GEMEP,~2,English,"Geneva Multimodal Emotion Portrayals. 10 actors portraying 17 emotional states including pride, relief, and tenderness.",Research use,https://www.unige.ch/cisa/gemep
+ISOLET,N/A,English,"Isolated letter speech recognition dataset (38.7 GB). Spoken letter-names for classification tasks.",UCI license,https://data.world/uci/isolet
+LEGO Corpus,~15,English,"347 dialogs with 9,083 system-user exchanges annotated for anger levels (garbage, non-angry, slightly angry, very angry).",Research use,https://www.ultes.eu/ressources/lego-spoken-dialogue-corpus/
+Libriadapt,N/A,English,"Domain adaptation dataset for ASR models with 3 types of domain shifts. Derived from LibriSpeech.",CC BY 4.0,https://github.com/akhilmathurs/libriadapt
+MSP-IMPROV,~9,English,"20 sentences by 12 actors with 4 emotions (angry, sad, happy, neutral). Improvised emotional speech.",Research use,https://ecs.utdallas.edu/research/researchlabs/msp-lab/MSP-Improv.html
+MuSe-CAR,~40,English,"40 hours of emotional speech from 70+ English speakers with 6,000+ recordings for multimodal sentiment analysis.",Research use,https://zenodo.org/records/4134758
+OGVC,"~20 (11,770 utterances)",Japanese,"Online Gaming Voice Chat corpus with 9,114 spontaneous and 2,656 acted utterances in 9 emotional states.",Research use,https://sites.google.com/site/ogcorpus/home/en
+Parkinsons Speech Dataset,N/A,English/Turkish,"Multiple types of sound recordings from 20 Parkinson's disease patients and 20 healthy subjects for biomedical research.",CC BY 4.0,https://archive.ics.uci.edu/ml/datasets/Parkinson+Speech+Dataset+with++Multiple+Types+of+Sound+Recordings
+PCVC,N/A,Persian,"Persian Consonant Vowel Combination speech corpus with 138 phonetic combination samples per speaker for ASR/speaker recognition.",Open source,https://github.com/S-Malek/PCVC
+RECOLA,~3.8,French,"Remote Collaborative and Affective Interactions corpus. 46 participants annotated for valence and arousal in spontaneous interactions.",Research use,https://diuf.unifr.ch/main/diva/recola/download.html
+SEMAINE,~20,English,"95 dyadic conversations from 21 subjects with emotion annotations. Subjects converse with character-playing partners.",Research use,https://semaine-db.eu/
+Crowdsourced Puerto Rico Spanish,N/A,Spanish (Puerto Rico),"Crowdsourced high-quality Puerto Rico Spanish speech data from Google.",CC BY 4.0,https://www.openslr.org/74/
+Crowdsourced Venezuelan Spanish,N/A,Spanish (Venezuelan),"Crowdsourced high-quality Venezuelan Spanish speech data from Google.",CC BY 4.0,https://www.openslr.org/75/
+Samromur Queries,N/A,Icelandic,"Samrómur Icelandic Speech corpus focused on queries. Approved for release in December 2021.",CC BY 4.0,https://www.openslr.org/116/
+Samromur Children,N/A,Icelandic,"Samrómur Icelandic Speech from children (ages 4-17 years). Approved for release in September 2021.",CC BY 4.0,https://www.openslr.org/117/
+Samromur Unverified,"~2,200",Icelandic,"Samrómur Icelandic Speech with 2,200 hours of mostly unverified data. Approved for release in July 2022.",CC BY 4.0,https://www.openslr.org/128/
+Samromur L2,~150,Icelandic,"Samrómur Icelandic Speech from people with Icelandic as a second language. 150 hours.",CC BY 4.0,https://www.openslr.org/130/
+Samromur Mimic,~66.7,Icelandic,"Samrómur Icelandic Speech where users mimic utterances. 66.7 hours. Approved in September 2022.",CC BY 4.0,https://www.openslr.org/131/
+Javanese TTS (Google),N/A,Javanese,"Multi-speaker TTS data for Javanese (jv-ID) from Google.",CC BY 4.0,https://www.openslr.org/41/
+Khmer TTS (Google),N/A,Khmer,"Multi-speaker TTS data for Khmer (km-KH) from Google.",CC BY 4.0,https://www.openslr.org/42/
+Sundanese TTS (Google),N/A,Sundanese,"Multi-speaker TTS data for Sundanese (su-ID) from Google.",CC BY 4.0,https://www.openslr.org/44/
+Nepali TTS (Google),N/A,Nepali,"Multi-speaker TTS data for Nepali (ne-NP) from Google.",CC BY 4.0,https://www.openslr.org/43/
+DES (Danish Emotional Speech),~1,Danish,"4 speakers (2 males and 2 females) expressing 5 emotions: neutral, surprise, happiness, sadness and anger.",Research use,http://kom.aau.dk/~tb/speech/Emotions/
